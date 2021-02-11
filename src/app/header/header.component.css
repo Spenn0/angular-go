@@ -1,0 +1,10 @@
+.header {
+  height: 70px;
+  background-color: rgb(201, 248, 224);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  color: rgb(247, 135, 91);
+}
